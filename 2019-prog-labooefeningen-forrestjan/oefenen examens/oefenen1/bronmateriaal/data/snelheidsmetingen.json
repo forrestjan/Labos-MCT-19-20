@@ -1,0 +1,1887 @@
+[
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 12,
+        "gepasseerde_voertuigen": 160
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 3,
+        "gepasseerde_voertuigen": 137
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 8,
+        "gepasseerde_voertuigen": 145
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 209
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 10,
+        "gepasseerde_voertuigen": 344
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 4,
+        "gepasseerde_voertuigen": 127
+    },
+    {
+        "locatie": {
+            "straat": "STATIONSSTRAAT",
+            "latitude": 50.8854471295485,
+            "longitude": 3.24265607916512,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 4,
+        "gepasseerde_voertuigen": 135
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 82
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 91
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 25,
+        "gepasseerde_voertuigen": 189
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 10,
+        "gepasseerde_voertuigen": 119
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 12,
+        "gepasseerde_voertuigen": 93
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 38,
+        "gepasseerde_voertuigen": 407
+    },
+    {
+        "locatie": {
+            "straat": "KORTRIJKSESTRAAT",
+            "latitude": 50.8832789667671,
+            "longitude": 3.22719864716386,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 2,
+        "overtredingen": 49,
+        "gepasseerde_voertuigen": 324
+    },
+    {
+        "locatie": {
+            "straat": "HEULSESTRAAT",
+            "latitude": 50.8786389176376,
+            "longitude": 3.23655282999188,
+            "gemeente": "LENDELEDE"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 2,
+        "overtredingen": 10,
+        "gepasseerde_voertuigen": 124
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATRIENSTEENWEG",
+            "latitude": 50.8698889305062,
+            "longitude": 3.24965463754563,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 105
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATRIENSTEENWEG",
+            "latitude": 50.8698889305062,
+            "longitude": 3.24965463754563,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 17,
+        "gepasseerde_voertuigen": 88
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATRIENSTEENWEG",
+            "latitude": 50.8698889305062,
+            "longitude": 3.24965463754563,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 22,
+        "gepasseerde_voertuigen": 121
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 11,
+        "gepasseerde_voertuigen": 480
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 11,
+        "gepasseerde_voertuigen": 148
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 163
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 29,
+        "gepasseerde_voertuigen": 247
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 153
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 112
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 231
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 7,
+        "gepasseerde_voertuigen": 57
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 24,
+        "gepasseerde_voertuigen": 318
+    },
+    {
+        "locatie": {
+            "straat": "RIJKSWEG",
+            "latitude": 50.8693103452617,
+            "longitude": 3.27726993678855,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 7,
+        "gepasseerde_voertuigen": 159
+    },
+    {
+        "locatie": {
+            "straat": "HULSTSESTRAAT",
+            "latitude": 50.857381222273,
+            "longitude": 3.2897474934486,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 25,
+        "gepasseerde_voertuigen": 119
+    },
+    {
+        "locatie": {
+            "straat": "HULSTSESTRAAT",
+            "latitude": 50.857381222273,
+            "longitude": 3.2897474934486,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 18,
+        "gepasseerde_voertuigen": 100
+    },
+    {
+        "locatie": {
+            "straat": "HULSTSESTRAAT",
+            "latitude": 50.857381222273,
+            "longitude": 3.2897474934486,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 2,
+        "overtredingen": 30,
+        "gepasseerde_voertuigen": 85
+    },
+    {
+        "locatie": {
+            "straat": "BRUGSESTEENWEG",
+            "latitude": 50.860723854586,
+            "longitude": 3.27057574403424,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 3,
+        "gepasseerde_voertuigen": 652
+    },
+    {
+        "locatie": {
+            "straat": "BRUGSESTEENWEG",
+            "latitude": 50.860723854586,
+            "longitude": 3.27057574403424,
+            "gemeente": "KUURNE"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 2,
+        "gepasseerde_voertuigen": 663
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 53
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 41
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 24,
+        "gepasseerde_voertuigen": 75
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 6,
+        "gepasseerde_voertuigen": 67
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 86
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 51
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 2,
+        "overtredingen": 17,
+        "gepasseerde_voertuigen": 100
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 140
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 19,
+        "gepasseerde_voertuigen": 137
+    },
+    {
+        "locatie": {
+            "straat": "TOMBROEKSTRAAT",
+            "latitude": 50.7594705191038,
+            "longitude": 3.26528467301309,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 2,
+        "overtredingen": 24,
+        "gepasseerde_voertuigen": 131
+    },
+    {
+        "locatie": {
+            "straat": "OVERZETWEG",
+            "latitude": 50.8155803689014,
+            "longitude": 3.23491525219787,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 22,
+        "gepasseerde_voertuigen": 204
+    },
+    {
+        "locatie": {
+            "straat": "OVERZETWEG",
+            "latitude": 50.8155803689014,
+            "longitude": 3.23491525219787,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 114
+    },
+    {
+        "locatie": {
+            "straat": "OVERZETWEG",
+            "latitude": 50.8155803689014,
+            "longitude": 3.23491525219787,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 29,
+        "gepasseerde_voertuigen": 145
+    },
+    {
+        "locatie": {
+            "straat": "OVERZETWEG",
+            "latitude": 50.8155803689014,
+            "longitude": 3.23491525219787,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 2,
+        "overtredingen": 54,
+        "gepasseerde_voertuigen": 414
+    },
+    {
+        "locatie": {
+            "straat": "OVERZETWEG",
+            "latitude": 50.8155803689014,
+            "longitude": 3.23491525219787,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 42,
+        "gepasseerde_voertuigen": 391
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 240
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 11,
+        "gepasseerde_voertuigen": 207
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 28,
+        "gepasseerde_voertuigen": 224
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 295
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 48,
+        "gepasseerde_voertuigen": 497
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 46,
+        "gepasseerde_voertuigen": 600
+    },
+    {
+        "locatie": {
+            "straat": "MARKEBEKESTRAAT",
+            "latitude": 50.8153910525848,
+            "longitude": 3.23933167876929,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 2,
+        "overtredingen": 30,
+        "gepasseerde_voertuigen": 402
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 135
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 122
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 122
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 128
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 7,
+        "gepasseerde_voertuigen": 120
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 228
+    },
+    {
+        "locatie": {
+            "straat": "ROGGELAAN",
+            "latitude": 50.8146126740296,
+            "longitude": 3.29561006516723,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 2,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 329
+    },
+    {
+        "locatie": {
+            "straat": "MUNKENDOORNSTRAAT",
+            "latitude": 50.7963621213239,
+            "longitude": 3.2694707257334,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 59
+    },
+    {
+        "locatie": {
+            "straat": "MUNKENDOORNSTRAAT",
+            "latitude": 50.7963621213239,
+            "longitude": 3.2694707257334,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 21,
+        "gepasseerde_voertuigen": 82
+    },
+    {
+        "locatie": {
+            "straat": "MUNKENDOORNSTRAAT",
+            "latitude": 50.7963621213239,
+            "longitude": 3.2694707257334,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 27,
+        "gepasseerde_voertuigen": 78
+    },
+    {
+        "locatie": {
+            "straat": "MUNKENDOORNSTRAAT",
+            "latitude": 50.7963621213239,
+            "longitude": 3.2694707257334,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 2,
+        "overtredingen": 57,
+        "gepasseerde_voertuigen": 127
+    },
+    {
+        "locatie": {
+            "straat": "MEENSESTEENWEG",
+            "latitude": 50.8285998517996,
+            "longitude": 3.24722723961694,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 43,
+        "gepasseerde_voertuigen": 299
+    },
+    {
+        "locatie": {
+            "straat": "MEENSESTEENWEG",
+            "latitude": 50.8285998517996,
+            "longitude": 3.24722723961694,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 7,
+        "gepasseerde_voertuigen": 457
+    },
+    {
+        "locatie": {
+            "straat": "IEPERSESTRAAT",
+            "latitude": 50.8427846253281,
+            "longitude": 3.26313929169809,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 100
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 28,
+        "gepasseerde_voertuigen": 252
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 35,
+        "gepasseerde_voertuigen": 176
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 61,
+        "gepasseerde_voertuigen": 506
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 26,
+        "gepasseerde_voertuigen": 189
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 1,
+        "overtredingen": 41,
+        "gepasseerde_voertuigen": 248
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 37,
+        "gepasseerde_voertuigen": 180
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 27,
+        "gepasseerde_voertuigen": 225
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 38,
+        "gepasseerde_voertuigen": 176
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 18,
+        "gepasseerde_voertuigen": 136
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 28,
+        "gepasseerde_voertuigen": 463
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 2,
+        "overtredingen": 34,
+        "gepasseerde_voertuigen": 172
+    },
+    {
+        "locatie": {
+            "straat": "ERASMUSLAAN",
+            "latitude": 50.810217511816,
+            "longitude": 3.28407433354141,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 50,
+        "gepasseerde_voertuigen": 438
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 75,
+        "gepasseerde_voertuigen": 948
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 42,
+        "gepasseerde_voertuigen": 449
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 1,
+        "overtredingen": 68,
+        "gepasseerde_voertuigen": 1030
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 50,
+        "gepasseerde_voertuigen": 252
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 2,
+        "overtredingen": 85,
+        "gepasseerde_voertuigen": 1038
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 3,
+        "overtredingen": 153,
+        "gepasseerde_voertuigen": 1656
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 4,
+        "overtredingen": 189,
+        "gepasseerde_voertuigen": 1776
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 4,
+        "overtredingen": 125,
+        "gepasseerde_voertuigen": 1572
+    },
+    {
+        "locatie": {
+            "straat": "COND+DREEF",
+            "latitude": 50.8143539846796,
+            "longitude": 3.26473694642378,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 5,
+        "overtredingen": 217,
+        "gepasseerde_voertuigen": 1831
+    },
+    {
+        "locatie": {
+            "straat": "BRUGSESTEENWEG",
+            "latitude": 50.8419554498456,
+            "longitude": 3.26563164498684,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 507
+    },
+    {
+        "locatie": {
+            "straat": "BRUGSESTEENWEG",
+            "latitude": 50.8419554498456,
+            "longitude": 3.26563164498684,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 11,
+        "gepasseerde_voertuigen": 369
+    },
+    {
+        "locatie": {
+            "straat": "BRUGSESTEENWEG",
+            "latitude": 50.8419554498456,
+            "longitude": 3.26563164498684,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 2,
+        "overtredingen": 12,
+        "gepasseerde_voertuigen": 313
+    },
+    {
+        "locatie": {
+            "straat": "KOOIGEMSESTRAAT",
+            "latitude": 50.7408500090259,
+            "longitude": 3.33800410614264,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 12,
+        "gepasseerde_voertuigen": 59
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 95
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 96
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 48,
+        "gepasseerde_voertuigen": 219
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 4,
+        "gepasseerde_voertuigen": 40
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 39,
+        "gepasseerde_voertuigen": 163
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 39,
+        "gepasseerde_voertuigen": 108
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 2,
+        "overtredingen": 25,
+        "gepasseerde_voertuigen": 163
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 3,
+        "overtredingen": 51,
+        "gepasseerde_voertuigen": 201
+    },
+    {
+        "locatie": {
+            "straat": "SINT-KATHARINASTRAAT",
+            "latitude": 50.8628072447168,
+            "longitude": 3.22776372538411,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 3,
+        "overtredingen": 32,
+        "gepasseerde_voertuigen": 128
+    },
+    {
+        "locatie": {
+            "straat": "MELLESTRAAT",
+            "latitude": 50.8654009661307,
+            "longitude": 3.21974180735318,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 73
+    },
+    {
+        "locatie": {
+            "straat": "MELLESTRAAT",
+            "latitude": 50.8654009661307,
+            "longitude": 3.21974180735318,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 109
+    },
+    {
+        "locatie": {
+            "straat": "DRIEKERKENSTRAAT",
+            "latitude": 50.8200899623445,
+            "longitude": 3.22987265261486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 3,
+        "gepasseerde_voertuigen": 186
+    },
+    {
+        "locatie": {
+            "straat": "DRIEKERKENSTRAAT",
+            "latitude": 50.8200899623445,
+            "longitude": 3.22987265261486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 2,
+        "gepasseerde_voertuigen": 204
+    },
+    {
+        "locatie": {
+            "straat": "LEUZESTRAAT",
+            "latitude": 50.766972597281,
+            "longitude": 3.29704967975486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 7,
+        "gepasseerde_voertuigen": 83
+    },
+    {
+        "locatie": {
+            "straat": "LEUZESTRAAT",
+            "latitude": 50.766972597281,
+            "longitude": 3.29704967975486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 8,
+        "gepasseerde_voertuigen": 169
+    },
+    {
+        "locatie": {
+            "straat": "LEUZESTRAAT",
+            "latitude": 50.766972597281,
+            "longitude": 3.29704967975486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 3,
+        "gepasseerde_voertuigen": 80
+    },
+    {
+        "locatie": {
+            "straat": "LEUZESTRAAT",
+            "latitude": 50.766972597281,
+            "longitude": 3.29704967975486,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 5,
+        "aantal_controles": 1,
+        "overtredingen": 5,
+        "gepasseerde_voertuigen": 160
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 50,
+        "gepasseerde_voertuigen": 313
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 56,
+        "gepasseerde_voertuigen": 421
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 572
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 33,
+        "gepasseerde_voertuigen": 377
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 18,
+        "gepasseerde_voertuigen": 157
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 25,
+        "gepasseerde_voertuigen": 489
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 10,
+        "gepasseerde_voertuigen": 259
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 18,
+        "gepasseerde_voertuigen": 363
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 48,
+        "gepasseerde_voertuigen": 510
+    },
+    {
+        "locatie": {
+            "straat": "DOORNIKSERIJKSWEG(BEL)",
+            "latitude": 50.7542921331252,
+            "longitude": 3.31401127364438,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 16,
+        "gepasseerde_voertuigen": 393
+    },
+    {
+        "locatie": {
+            "straat": "BELLEGEMSESTRAAT",
+            "latitude": 50.7776390960703,
+            "longitude": 3.28753196698922,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 4,
+        "gepasseerde_voertuigen": 137
+    },
+    {
+        "locatie": {
+            "straat": "BELLEGEMSESTRAAT",
+            "latitude": 50.7776390960703,
+            "longitude": 3.28753196698922,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 213
+    },
+    {
+        "locatie": {
+            "straat": "BELLEGEMSESTRAAT",
+            "latitude": 50.7776390960703,
+            "longitude": 3.28753196698922,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 8,
+        "gepasseerde_voertuigen": 123
+    },
+    {
+        "locatie": {
+            "straat": "BELLEGEMSESTRAAT",
+            "latitude": 50.7776390960703,
+            "longitude": 3.28753196698922,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 2,
+        "gepasseerde_voertuigen": 150
+    },
+    {
+        "locatie": {
+            "straat": "MOESKROENSESTEENWEG",
+            "latitude": 50.770550936533,
+            "longitude": 3.22563789929832,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 40,
+        "gepasseerde_voertuigen": 155
+    },
+    {
+        "locatie": {
+            "straat": "LUINGNESTRAAT",
+            "latitude": 50.7663986976993,
+            "longitude": 3.23388996420983,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 84
+    },
+    {
+        "locatie": {
+            "straat": "LUINGNESTRAAT",
+            "latitude": 50.7663986976993,
+            "longitude": 3.23388996420983,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 11,
+        "gepasseerde_voertuigen": 88
+    },
+    {
+        "locatie": {
+            "straat": "LUINGNESTRAAT",
+            "latitude": 50.7663986976993,
+            "longitude": 3.23388996420983,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 6,
+        "gepasseerde_voertuigen": 59
+    },
+    {
+        "locatie": {
+            "straat": "LUINGNESTRAAT",
+            "latitude": 50.7663986976993,
+            "longitude": 3.23388996420983,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 10,
+        "aantal_controles": 1,
+        "overtredingen": 2,
+        "gepasseerde_voertuigen": 41
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 17,
+        "gepasseerde_voertuigen": 96
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 32
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 1,
+        "overtredingen": 15,
+        "gepasseerde_voertuigen": 202
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 101
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 10,
+        "gepasseerde_voertuigen": 208
+    },
+    {
+        "locatie": {
+            "straat": "BERGSTRAAT",
+            "latitude": 50.7757308354531,
+            "longitude": 3.23904333067819,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 1,
+        "overtredingen": 20,
+        "gepasseerde_voertuigen": 157
+    },
+    {
+        "locatie": {
+            "straat": "MEENSESTEENWEG(BIS)",
+            "latitude": 50.8261781315395,
+            "longitude": 3.23836824521132,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 12,
+        "aantal_controles": 1,
+        "overtredingen": 14,
+        "gepasseerde_voertuigen": 287
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 1,
+        "aantal_controles": 1,
+        "overtredingen": 22,
+        "gepasseerde_voertuigen": 108
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 2,
+        "aantal_controles": 1,
+        "overtredingen": 9,
+        "gepasseerde_voertuigen": 144
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 13,
+        "gepasseerde_voertuigen": 182
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 3,
+        "aantal_controles": 1,
+        "overtredingen": 44,
+        "gepasseerde_voertuigen": 122
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 8,
+        "aantal_controles": 1,
+        "overtredingen": 22,
+        "gepasseerde_voertuigen": 59
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 11,
+        "aantal_controles": 1,
+        "overtredingen": 24,
+        "gepasseerde_voertuigen": 81
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 4,
+        "aantal_controles": 2,
+        "overtredingen": 70,
+        "gepasseerde_voertuigen": 345
+    },
+    {
+        "locatie": {
+            "straat": "IZEGEMSESTRAAT(HEU)",
+            "latitude": 50.8551822946659,
+            "longitude": 3.25099603705168,
+            "gemeente": "KORTRIJK"
+        },
+        "jaar": 2012,
+        "maand": 9,
+        "aantal_controles": 2,
+        "overtredingen": 43,
+        "gepasseerde_voertuigen": 151
+    }
+]
